@@ -1,12 +1,13 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int[] two = new int[2];
         int start = 0;
         int end = nums.length-1;
+        int[] index = new int[2];
         while(start<end) {
             int sum = nums[start]+nums[end];
             if(sum == target) {
-                int[] index = {start+1,end+1};
+                index[0] = start+1;
+                index[1] = end+1;
                 return index;
             }
             else if(nums[start]+nums[end] < target) {
@@ -16,6 +17,6 @@ class Solution {
                 end--;
             }
         }
-        return two;
+        return index;
     }
 }
