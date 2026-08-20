@@ -15,14 +15,9 @@ class Solution {
                 arr2[count2] = nums[i];
             }
         }
-        int[] result = new int[count1 + 1 + count2 + 1];
-        int idx = 0;
-        for (int k = 0; k <= count1; k++) {
-            result[idx++] = arr1[k];
-        }
-        for (int k = 0; k <= count2; k++) {
-            result[idx++] = arr2[k];
-        }
+        int[] result = IntStream.concat(
+                Arrays.stream(arr1, 0, count1 + 1), // only the USED portion
+                Arrays.stream(arr2, 0, count2 + 1)).toArray();
         return result;
     }
 }
