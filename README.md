@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/githarshil/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/githarshil/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/githarshil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/githarshil/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/githarshil/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githarshil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/githarshil/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/githarshil/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/githarshil/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/githarshil/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/githarshil/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/githarshil/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
