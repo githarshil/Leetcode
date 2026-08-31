@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/githarshil/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/githarshil/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/githarshil/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2643-row-with-maximum-ones](https://github.com/githarshil/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/githarshil/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/githarshil/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/githarshil/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/githarshil/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/githarshil/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/githarshil/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
