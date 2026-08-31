@@ -3,8 +3,7 @@ class Solution {
         int max = -1;
         int min  = bloomDay[0];
         int ans = 0;
-        long guard = (long) m*k;
-        if(guard>bloomDay.length){
+        if((long) m*k>bloomDay.length){
             return -1;
         }
         for(int i = 0;i<bloomDay.length;i++){
