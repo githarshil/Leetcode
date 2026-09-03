@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/githarshil/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githarshil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/githarshil/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/githarshil/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/githarshil/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/githarshil/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/githarshil/Leetcode/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/githarshil/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githarshil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/githarshil/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/githarshil/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/githarshil/Leetcode/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/githarshil/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/githarshil/Leetcode/tree/master/0704-binary-search) |
@@ -68,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/githarshil/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/githarshil/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/githarshil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/githarshil/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/githarshil/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/githarshil/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Ternary Search
@@ -102,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/githarshil/Leetcode/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/githarshil/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/githarshil/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
