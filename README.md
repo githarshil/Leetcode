@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/githarshil/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/githarshil/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/githarshil/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/githarshil/Leetcode/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/githarshil/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/githarshil/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/githarshil/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/githarshil/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/githarshil/Leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/githarshil/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/githarshil/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/githarshil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
