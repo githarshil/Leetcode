@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/githarshil/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/githarshil/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/githarshil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/githarshil/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/githarshil/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/githarshil/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/githarshil/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/githarshil/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
