@@ -4,4 +4,3 @@ class Solution(object):
             return n
         else:
             return self.fib(n-1)+self.fib(n-2)
-        fib(n)
