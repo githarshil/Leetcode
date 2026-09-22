@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/githarshil/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/githarshil/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/githarshil/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/githarshil/Leetcode/tree/master/0231-power-of-two) |
