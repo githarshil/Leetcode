@@ -5,7 +5,8 @@ class Solution {
         int res = 0;
         for(int i = 0;i<nums.length;i++) {
             sum += 1 + nums[i];
-            for(int j = 2;j<=Math.sqrt(nums[i]);j++) {
+            double root = Math.sqrt(nums[i]);
+            for(int j = 2;j<=root;j++) {
                 if(nums[i]%j == 0) {
                     if(nums[i]/j == j) {
                         count++;
