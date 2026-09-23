@@ -11,10 +11,16 @@ class Solution {
                     if(nums[i]/j == j) {
                         count++;
                         sum += j;
+                        if(count>4) {
+                            break;
+                        }
                     }
                     else{
                         count+=2;
                         sum+=j+nums[i]/j;
+                        if(count>4) {
+                            break;
+                        }
                     }
                 }
             }
