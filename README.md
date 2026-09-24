@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/githarshil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/githarshil/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/githarshil/Leetcode/tree/master/1528-shuffle-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/githarshil/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2643-row-with-maximum-ones](https://github.com/githarshil/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/githarshil/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/githarshil/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/githarshil/Leetcode/tree/master/1390-four-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Ternary Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/githarshil/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -262,10 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/githarshil/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/githarshil/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
