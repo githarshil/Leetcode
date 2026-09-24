@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/githarshil/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/githarshil/Leetcode/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/githarshil/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Ternary Search
 |  |
@@ -216,10 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/githarshil/Leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/githarshil/Leetcode/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/githarshil/Leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/githarshil/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/githarshil/Leetcode/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/githarshil/Leetcode/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/githarshil/Leetcode/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/githarshil/Leetcode/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/githarshil/Leetcode/tree/master/1952-three-divisors) |
 ## Depth-First Search
 |  |
 | ------- |
