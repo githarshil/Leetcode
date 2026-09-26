@@ -12,8 +12,9 @@ class Solution {
             return print(num1,num2) + count;
         }
         else {
-            num2 -= num1;
-            return print(num1,num2) + 1;
+            int count  = num2/num1;
+            num2 = num2%num1;
+            return print(num1,num2) + count;
         }
     }
 }
