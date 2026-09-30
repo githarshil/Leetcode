@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/githarshil/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/githarshil/Leetcode/tree/master/1390-four-divisors) |
+| [1688-count-of-matches-in-tournament](https://github.com/githarshil/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/githarshil/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/githarshil/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/githarshil/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/githarshil/Leetcode/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/githarshil/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/githarshil/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/githarshil/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
