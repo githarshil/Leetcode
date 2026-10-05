@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/githarshil/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githarshil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/githarshil/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/githarshil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/githarshil/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/githarshil/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/githarshil/Leetcode/tree/master/0344-reverse-string) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/githarshil/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/githarshil/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/githarshil/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/githarshil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/githarshil/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/githarshil/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/githarshil/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/githarshil/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/githarshil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/githarshil/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/githarshil/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/githarshil/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/githarshil/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
