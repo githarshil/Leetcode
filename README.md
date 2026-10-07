@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/githarshil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/githarshil/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/githarshil/Leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/githarshil/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/githarshil/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/githarshil/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/githarshil/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/githarshil/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/githarshil/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/githarshil/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/githarshil/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/githarshil/Leetcode/tree/master/2652-sum-multiples) |
 | [3875-construct-uniform-parity-array-i](https://github.com/githarshil/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/githarshil/Leetcode/tree/master/3959-check-good-integer) |
