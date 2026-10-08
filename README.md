@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/githarshil/Leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/githarshil/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/githarshil/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/githarshil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/githarshil/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/githarshil/Leetcode/tree/master/1528-shuffle-string) |
