@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/githarshil/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/githarshil/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/githarshil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/githarshil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/githarshil/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/githarshil/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/githarshil/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -390,9 +391,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/githarshil/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/githarshil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/githarshil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/githarshil/Leetcode/tree/master/1051-height-checker) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/githarshil/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
