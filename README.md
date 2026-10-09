@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/githarshil/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/githarshil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/githarshil/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/githarshil/Leetcode/tree/master/3174-clear-digits) |
 | [3959-check-good-integer](https://github.com/githarshil/Leetcode/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/githarshil/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/githarshil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/githarshil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/githarshil/Leetcode/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/githarshil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/githarshil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/githarshil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/githarshil/Leetcode/tree/master/3174-clear-digits) |
 ## Counting Sort
 |  |
 | ------- |
