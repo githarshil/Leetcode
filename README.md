@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/githarshil/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/githarshil/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/githarshil/Leetcode/tree/master/0877-stone-game) |
+| [1006-clumsy-factorial](https://github.com/githarshil/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/githarshil/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/githarshil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/githarshil/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/githarshil/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/githarshil/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/githarshil/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/githarshil/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1688-count-of-matches-in-tournament](https://github.com/githarshil/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/githarshil/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/githarshil/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/githarshil/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/githarshil/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/githarshil/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/githarshil/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/githarshil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/githarshil/Leetcode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/githarshil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
