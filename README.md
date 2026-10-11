@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/githarshil/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/githarshil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/githarshil/Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/githarshil/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/githarshil/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/githarshil/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/githarshil/Leetcode/tree/master/0739-daily-temperatures) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/githarshil/Leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/githarshil/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/githarshil/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/githarshil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/githarshil/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/githarshil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/githarshil/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/githarshil/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/githarshil/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/githarshil/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/githarshil/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/githarshil/Leetcode/tree/master/0844-backspace-string-compare) |
