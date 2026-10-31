@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/githarshil/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/githarshil/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/githarshil/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3668-restore-finishing-order](https://github.com/githarshil/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/githarshil/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/githarshil/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/githarshil/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/githarshil/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/githarshil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3668-restore-finishing-order](https://github.com/githarshil/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/githarshil/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
