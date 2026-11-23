@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/githarshil/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/githarshil/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/githarshil/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/githarshil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/githarshil/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/githarshil/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/githarshil/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/githarshil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/githarshil/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/githarshil/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/githarshil/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/githarshil/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/githarshil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/githarshil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/githarshil/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/githarshil/Leetcode/tree/master/0877-stone-game) |
